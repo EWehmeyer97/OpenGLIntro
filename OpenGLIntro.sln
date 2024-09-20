@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLIntro", "OpenGLIntro\OpenGLIntro.vcxproj", "{9965F0C9-A71B-4334-8402-4B5E09BD1702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9965F0C9-A71B-4334-8402-4B5E09BD1702}.Debug|x64.ActiveCfg = Debug|x64
+		{9965F0C9-A71B-4334-8402-4B5E09BD1702}.Debug|x64.Build.0 = Debug|x64
+		{9965F0C9-A71B-4334-8402-4B5E09BD1702}.Debug|x86.ActiveCfg = Debug|Win32
+		{9965F0C9-A71B-4334-8402-4B5E09BD1702}.Debug|x86.Build.0 = Debug|Win32
+		{9965F0C9-A71B-4334-8402-4B5E09BD1702}.Release|x64.ActiveCfg = Release|x64
+		{9965F0C9-A71B-4334-8402-4B5E09BD1702}.Release|x64.Build.0 = Release|x64
+		{9965F0C9-A71B-4334-8402-4B5E09BD1702}.Release|x86.ActiveCfg = Release|Win32
+		{9965F0C9-A71B-4334-8402-4B5E09BD1702}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2C1B0C6-D7DB-42AD-8463-2A5EADB30E70}
+	EndGlobalSection
+EndGlobal
